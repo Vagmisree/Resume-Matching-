@@ -1,0 +1,8 @@
+Flask
+flask-cors
+PyPDF2
+openai>=1.0.0
+sentence-transformers
+scikit-learn
+python-dotenv
+httpx
